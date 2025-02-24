@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pranjal Pathak  
-### Front-end Engineer | Problem Solver | Tech Enthusiast  
+### Front-end Engineer 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23255E63?style=for-the-badge&logo=dev.to&logoColor=white)](https://pranjal-pathak.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp;
 [![ LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-pathak-052605243/) &nbsp;&nbsp;&nbsp;&nbsp;
